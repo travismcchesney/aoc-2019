@@ -15,5 +15,5 @@ end
   end
 end
 
-puts arr.join(',')
+puts arr[0]
 
