@@ -7,6 +7,7 @@ ARGV.clear
 #
 # Run with param "--play", to actually play the game!
 # Run with param "--show" to see the automated game
+# Run with no param to just get the final score
 #
 
 Tile = Struct.new(:x, :y, :type) do
